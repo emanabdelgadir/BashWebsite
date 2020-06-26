@@ -4,6 +4,8 @@
   font-family: The Historia Demo;
 }
 
+@import url(css/all.min.css);
+
 * {
   margin: 0;
   padding: 0;
